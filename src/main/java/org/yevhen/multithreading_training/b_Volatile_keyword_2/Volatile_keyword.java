@@ -1,4 +1,4 @@
-package org.yevhen.multithreading_training.b_Volatile_keyword;
+package org.yevhen.multithreading_training.b_Volatile_keyword_2;
 
 import java.util.Scanner;
 
